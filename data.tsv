@@ -1,0 +1,1000 @@
+1	Other
+2	Avoidance	Direct
+5	Avoidance	Direct
+7	Prediction	Other
+10	Avoidance	Direct
+15	Prediction	Direct
+16	Avoidance	Direct
+21	Avoidance	Direct
+22	Avoidance	Other
+23	Rule
+25	Rule
+27	Rule
+37	Avoidance	Direct
+40	Avoidance	Direct
+41	Prediction	Other
+42	Avoidance	Direct
+46	Avoidance	Direct
+51	Rule
+54	Avoidance	Direct
+55	Rule
+56	Avoidance	Direct
+58	Avoidance	Direct
+61	Prediction	Other
+72	Prediction	Change
+79	Prediction	Direct
+85	Prediction	Direct
+88	Avoidance	Direct
+89	Unknown
+95	Prediction	Direct
+99	Avoidance	Direct
+109	Avoidance	Change
+110	Prediction	Direct
+112	Rule
+114	Prediction	Direct
+119	Other
+120	Avoidance	Direct
+121	Avoidance	Direct
+122	Avoidance	Change
+126	Prediction	Direct
+127	Prediction	Change
+131	Rule
+137	Avoidance	Direct
+138	Rule
+139	Avoidance	Direct
+140	Avoidance	Direct
+141	Prediction	Direct
+142	Rule
+144	Avoidance	Change
+145	Avoidance	Change
+147	Avoidance	Direct
+155	Avoidance	Direct
+157	Avoidance	Direct
+162	Avoidance	Direct
+163	Prediction	Direct
+164	Prediction	Change
+175	Rule
+176	Avoidance	Direct
+177	Avoidance	Direct
+187	Avoidance	Other
+195	Avoidance	Change
+196	Other
+198	Avoidance	Direct
+200	Avoidance	Change
+202	Avoidance	Change
+205	Avoidance	Change
+206	Unknown
+209	Avoidance	Direct
+214	Avoidance	Direct
+221	Other
+222	Prediction	Change
+226	Avoidance	Other
+232	Avoidance	Other
+233	Prediction	Other
+234	Rule
+238	Other
+239	Other
+240	Unknown
+243	Avoidance	Change
+244	Avoidance	Direct
+245	Rule
+252	Avoidance	Direct
+259	Rule
+261	Prediction	Direct
+262	Rule
+267	Avoidance	Change
+268	Avoidance	Direct
+270	Avoidance	Change
+272	Avoidance	Other
+273	Avoidance	Direct
+283	Avoidance	Direct
+285	Rule
+289	Prediction	Change
+295	Unknown
+298	Avoidance	Direct
+302	Avoidance	Direct
+303	Avoidance	Direct
+306	Avoidance	Change
+312	Prediction	Direct
+315	Prediction	Change
+316	Avoidance	Direct
+317	Avoidance	Other
+323	Prediction	Other
+325	Avoidance	Change
+326	Prediction	Change
+330	Prediction	Change
+331	Avoidance	Direct
+332	Prediction	Direct
+336	Unknown
+339	Prediction	Direct
+341	Avoidance	Direct
+342	Avoidance	Direct
+344	Unknown
+347	Avoidance	Direct
+349	Other
+353	Avoidance	Direct
+355	Other
+357	Avoidance	Change
+358	Avoidance	Change
+360	Avoidance	Direct
+363	Avoidance	Direct
+364	Avoidance	Change
+367	Rule
+369	Avoidance	Other
+370	Prediction	Other
+371	Avoidance	Change
+372	Rule
+374	Rule
+376	Rule
+378	Other
+381	Prediction	Direct
+382	Other
+387	Rule
+394	Avoidance	Change
+395	Prediction	Direct
+396	Rule
+399	Unknown
+403	Other
+404	Rule
+405	Rule
+409	Unknown
+412	Prediction	Change
+418	Prediction	Direct
+419	Rule
+421	Avoidance	Change
+427	Avoidance	Direct
+428	Prediction	Direct
+436	Prediction	Change
+439	Avoidance	Change
+445	Other
+448	Avoidance	Direct
+453	Prediction	Direct
+455	Avoidance	Direct
+457	Avoidance	Direct
+459	Prediction	Direct
+462	Avoidance	Change
+463	Unknown
+465	Prediction	Direct
+469	Avoidance	Direct
+474	Avoidance	Direct
+482	Prediction	Direct
+484	Rule
+487	Rule
+491	Avoidance	Change
+493	Prediction	Direct
+500	Avoidance	Direct
+506	Rule
+507	Avoidance	Direct
+511	Avoidance	Direct
+516	Rule
+518	Avoidance	Direct
+519	Avoidance	Direct
+526	Avoidance	Direct
+530	Prediction	Direct
+531	Avoidance	Change
+532	Other
+536	Rule
+537	Rule
+541	Prediction	Direct
+547	Avoidance	Change
+560	Avoidance	Change
+567	Avoidance	Direct
+569	Rule
+578	Rule
+583	Rule
+584	Other
+586	Prediction	Change
+587	Avoidance	Direct
+589	Avoidance	Change
+590	Avoidance	Direct
+591	Avoidance	Direct
+595	Avoidance	Direct
+596	Avoidance	Direct
+599	Avoidance	Change
+610	Avoidance	Change
+612	Avoidance	Direct
+617	Avoidance	Change
+619	Prediction	Direct
+620	Prediction	Direct
+624	Avoidance	Change
+627	Avoidance	Direct
+628	Avoidance	Change
+630	Rule
+631	Avoidance	Change
+634	Rule
+641	Avoidance	Change
+644	Prediction	Direct
+647	Prediction	Other
+662	Unknown
+666	Unknown
+670	Avoidance	Direct
+676	Avoidance	Change
+679	Prediction	Other
+681	Avoidance	Change
+682	Rule
+688	Avoidance	Direct
+689	Prediction	Change
+691	Avoidance	Direct
+692	Prediction	Direct
+696	Rule
+697	Prediction	Direct
+701	Prediction	Direct
+704	Avoidance	Other
+705	Avoidance	Direct
+709	Avoidance	Direct
+710	Prediction	Change
+711	Avoidance	Change
+712	Avoidance	Change
+715	Avoidance	Change
+720	Avoidance	Direct
+721	Avoidance	Direct
+725	Avoidance	Direct
+732	Avoidance	Direct
+736	Prediction	Direct
+738	Other
+739	Prediction	Direct
+741	Rule
+744	Rule
+747	Prediction	Change
+749	Rule
+751	Avoidance	Change
+752	Unknown
+754	Rule
+757	Rule
+760	Avoidance	Direct
+761	Avoidance	Change
+764	Avoidance	Change
+767	Avoidance	Change
+768	Avoidance	Direct
+769	Avoidance	Other
+771	Prediction	Direct
+774	Prediction	Change
+777	Avoidance	Change
+778	Avoidance	Change
+779	Avoidance	Change
+782	Other
+783	Avoidance	Direct
+789	Rule
+791	Avoidance	Direct
+792	Rule
+800	Prediction	Direct
+804	Rule
+817	Avoidance	Direct
+818	Avoidance	Direct
+819	Prediction	Direct
+821	Rule
+823	Avoidance	Change
+826	Rule
+827	Avoidance	Direct
+828	Unknown
+829	Avoidance	Other
+833	Avoidance	Direct
+837	Prediction	Direct
+838	Avoidance	Change
+846	Other
+848	Other
+849	Rule
+850	Avoidance	Direct
+851	Other
+856	Prediction	Change
+857	Avoidance	Change
+859	Avoidance	Change
+860	Avoidance	Change
+861	Avoidance	Change
+863	Rule
+864	Rule
+873	Rule
+874	Rule
+880	Avoidance	Other
+885	Other
+892	Avoidance	Direct
+893	Avoidance	Direct
+904	Avoidance	Change
+907	Avoidance	Change
+914	Rule
+915	Rule
+917	Avoidance	Change
+918	Avoidance	Direct
+920	Avoidance	Direct
+923	Rule
+927	Rule
+929	Avoidance	Direct
+930	Prediction	Direct
+933	Avoidance	Change
+939	Rule
+941	Prediction	Direct
+943	Prediction	Direct
+945	Other
+948	Avoidance	Direct
+952	Avoidance	Direct
+954	Other
+957	Avoidance	Direct
+960	Avoidance	Direct
+961	Avoidance	Direct
+962	Prediction	Change
+968	Avoidance	Change
+970	Rule
+972	Avoidance	Direct
+979	Prediction	Direct
+980	Prediction	Change
+986	Avoidance	Change
+990	Avoidance	Other
+998	Other
+1001	Prediction	Direct
+1004	Rule
+1006	Prediction	Change
+1011	Rule
+1015	Avoidance	Direct
+1022	Avoidance	Direct
+1029	Avoidance	Change
+1033	Avoidance	Change
+1037	Avoidance	Change
+1042	Prediction	Direct
+1045	Avoidance	Change
+1048	Avoidance	Change
+1050	Avoidance	Change
+1051	Avoidance	Direct
+1062	Avoidance	Direct
+1069	Other
+1076	Avoidance	Change
+1083	Avoidance	Change
+1084	Avoidance	Change
+1085	Rule
+1097	Unknown
+1099	Prediction	Change
+1101	Avoidance	Direct
+1104	Avoidance	Direct
+1113	Unknown
+1117	Avoidance	Direct
+1118	Prediction	Change
+1122	Avoidance	Direct
+1126	Rule
+1127	Avoidance	Other
+1131	Prediction	Other
+1133	Avoidance	Direct
+1134	Prediction	Direct
+1136	Avoidance	Other
+1137	Rule
+1138	Rule
+1141	Rule
+1145	Rule
+1154	Avoidance	Direct
+1159	Avoidance	Change
+1162	Avoidance	Direct
+1169	Prediction	Direct
+1170	Rule
+1174	Avoidance	Direct
+1182	Avoidance	Direct
+1184	Rule
+1185	Prediction	Direct
+1186	Prediction	Direct
+1190	Avoidance	Direct
+1198	Prediction	Direct
+1220	Avoidance	Change
+1221	Avoidance	Direct
+1234	Avoidance	Change
+1243	Unknown
+1245	Rule
+1247	Avoidance	Change
+1248	Avoidance	Direct
+1249	Avoidance	Change
+1253	Prediction	Change
+1254	Avoidance	Direct
+1257	Avoidance	Direct
+1258	Prediction	Direct
+1264	Avoidance	Change
+1265	Rule
+1266	Avoidance	Direct
+1269	Rule
+1270	Rule
+1271	Avoidance	Change
+1273	Avoidance	Direct
+1278	Avoidance	Direct
+1279	Avoidance	Direct
+1281	Avoidance	Direct
+1282	Avoidance	Direct
+1290	Unknown
+1299	Avoidance	Change
+1302	Rule
+1311	Other
+1339	Rule
+1352	Avoidance	Change
+1359	Avoidance	Change
+1360	Avoidance	Direct
+1384	Prediction	Direct
+1386	Rule
+1397	Avoidance	Direct
+1403	Avoidance	Direct
+1422	Avoidance	Direct
+1426	Unknown
+1438	Rule
+1439	Avoidance	Direct
+1474	Rule
+1475	Prediction	Direct
+1482	Avoidance	Direct
+1483	Rule
+1499	Rule
+1503	Rule
+1531	Avoidance	Change
+1547	Avoidance	Change
+1599	Avoidance	Change
+1603	Rule
+1617	Rule
+1669	Rule
+1683	Avoidance	Change
+1685	Avoidance	Direct
+1692	Avoidance	Direct
+1733	Rule
+1737	Prediction	Change
+1752	Rule
+1756	Avoidance	Change
+1759	Avoidance	Direct
+1761	Prediction	Direct
+1769	Avoidance	Direct
+1779	Prediction	Direct
+1782	Avoidance	Direct
+1785	Rule
+1787	Avoidance	Other
+1795	Avoidance	Change
+1799	Avoidance	Change
+1803	Prediction	Direct
+1819	Avoidance	Change
+1825	Rule
+1836	Avoidance	Change
+1849	Rule
+1850	Rule
+1868	Other
+1870	Avoidance	Direct
+1910	Avoidance	Direct
+1924	Rule
+1927	Rule
+1934	Avoidance	Direct
+1955	Prediction	Direct
+1958	Avoidance	Direct
+1964	Prediction	Change
+1984	Prediction	Change
+2006	Avoidance	Change
+2009	Avoidance	Direct
+2013	Avoidance	Direct
+2017	Avoidance	Change
+2046	Rule
+2049	Rule
+2051	Avoidance	Change
+2061	Rule
+2065	Rule
+2087	Avoidance	Direct
+2088	Prediction	Direct
+2114	Avoidance	Change
+2121	Prediction	Direct
+2129	Prediction	Direct
+2135	Avoidance	Direct
+2140	Avoidance	Direct
+2142	Rule
+2146	Rule
+2151	Avoidance	Direct
+2152	Avoidance	Direct
+2168	Avoidance	Change
+2169	Avoidance	Change
+2176	Rule
+2182	Rule
+2185	Avoidance	Direct
+2197	Avoidance	Direct
+2237	Avoidance	Direct
+2251	Avoidance	Change
+2253	Rule
+2255	Prediction	Change
+2258	Avoidance	Direct
+2270	Avoidance	Direct
+2273	Avoidance	Change
+2281	Rule
+2294	Rule
+2310	Rule
+2325	Rule
+2339	Avoidance	Direct
+2340	Prediction	Change
+2348	Other
+2371	Rule
+2382	Avoidance	Change
+2394	Rule
+2399	Other
+2432	Avoidance	Direct
+2448	Prediction	Direct
+2479	Other
+2496	Prediction	Direct
+2499	Avoidance	Direct
+2509	Avoidance	Direct
+2586	Avoidance	Other
+2632	Avoidance	Change
+2633	Prediction	Change
+2641	Rule
+2663	Rule
+2704	Rule
+2722	Avoidance	Direct
+2755	Other
+2787	Avoidance	Direct
+2788	Prediction	Direct
+2802	Avoidance	Change
+2809	Rule
+2832	Avoidance	Change
+2840	Avoidance	Change
+2852	Avoidance	Change
+2853	Rule
+2857	Rule
+2887	Rule
+2895	Prediction	Direct
+2906	Avoidance	Change
+2935	Rule
+2953	Other
+2965	Prediction	Direct
+2978	Avoidance	Direct
+2979	Rule
+2980	Other
+2985	Rule
+2999	Avoidance	Direct
+3017	Avoidance	Direct
+3023	Avoidance	Direct
+3035	Rule
+3038	Avoidance	Direct
+3051	Prediction	Change
+3073	Avoidance	Change
+3077	Avoidance	Change
+3112	Avoidance	Change
+3122	Avoidance	Change
+3128	Rule
+3132	Avoidance	Direct
+3138	Avoidance	Change
+3139	Avoidance	Direct
+3149	Other
+3177	Avoidance	Direct
+3193	Avoidance	Change
+3213	Rule
+3220	Avoidance	Change
+3283	Avoidance	Change
+3307	Rule
+3351	Avoidance	Direct
+3378	Avoidance	Direct
+3382	Prediction	Change
+3402	Rule
+3431	Avoidance	Change
+3434	Avoidance	Direct
+3437	Prediction	Other
+3455	Avoidance	Direct
+3459	Avoidance	Change
+3466	Avoidance	Direct
+3511	Prediction	Change
+3571	Avoidance	Change
+3637	Avoidance	Change
+3650	Avoidance	Direct
+3790	Avoidance	Change
+3832	Avoidance	Direct
+3879	Prediction	Change
+3916	Avoidance	Direct
+3918	Rule
+3955	Avoidance	Direct
+3985	Avoidance	Change
+4003	Rule
+4054	Avoidance	Direct
+4060	Other
+4086	Avoidance	Direct
+4090	Prediction	Direct
+4092	Avoidance	Direct
+4095	Other
+4101	Other
+4114	Rule
+4118	Avoidance	Direct
+4144	Unknown
+4152	Avoidance	Change
+4186	Avoidance	Change
+4200	Rule
+4216	Other
+4236	Avoidance	Change
+4273	Prediction	Other
+4308	Rule
+4311	Avoidance	Other
+4324	Unknown
+4335	Avoidance	Change
+4438	Avoidance	Change
+4455	Avoidance	Change
+4458	Avoidance	Change
+4463	Avoidance	Change
+4497	Other
+4502	Avoidance	Direct
+4513	Avoidance	Change
+4545	Rule
+4551	Avoidance	Other
+4564	Prediction	Direct
+4584	Rule
+4707	Avoidance	Change
+4748	Prediction	Change
+4778	Prediction	Direct
+4794	Avoidance	Direct
+4807	Other
+4821	Avoidance	Direct
+4895	Avoidance	Direct
+4915	Avoidance	Change
+4916	Prediction	Change
+4923	Rule
+4929	Avoidance	Change
+4935	Avoidance	Change
+4950	Prediction	Direct
+4959	Avoidance	Other
+4964	Avoidance	Direct
+4972	Avoidance	Change
+4978	Prediction	Other
+4981	Rule
+4982	Avoidance	Change
+5004	Rule
+5023	Rule
+5038	Prediction	Change
+5042	Avoidance	Direct
+5056	Avoidance	Direct
+5068	Avoidance	Change
+5072	Prediction	Direct
+5073	Avoidance	Direct
+5074	Avoidance	Change
+5082	Avoidance	Direct
+5083	Rule
+5089	Avoidance	Direct
+5118	Rule
+5128	Avoidance	Other
+5130	Avoidance	Direct
+5131	Avoidance	Direct
+5133	Rule
+5141	Avoidance	Change
+5144	Rule
+5155	Avoidance	Other
+5169	Prediction	Change
+5171	Avoidance	Direct
+5175	Unknown
+5187	Avoidance	Direct
+5251	Avoidance	Direct
+5254	Avoidance	Change
+5279	Avoidance	Change
+5290	Avoidance	Direct
+5298	Unknown
+5317	Prediction	Direct
+5323	Prediction	Change
+5345	Avoidance	Direct
+5357	Avoidance	Direct
+5365	Avoidance	Change
+5375	Avoidance	Direct
+5376	Rule
+5378	Avoidance	Direct
+5400	Avoidance	Direct
+5411	Rule
+5418	Avoidance	Direct
+5422	Avoidance	Change
+5423	Avoidance	Direct
+5431	Rule
+5449	Rule
+5463	Avoidance	Change
+5466	Prediction	Change
+5482	Avoidance	Change
+5485	Avoidance	Direct
+5493	Rule
+5495	Rule
+5533	Rule
+5542	Avoidance	Change
+5545	Rule
+5546	Rule
+5587	Avoidance	Change
+5590	Avoidance	Direct
+5593	Avoidance	Direct
+5597	Avoidance	Direct
+5619	Avoidance	Change
+5625	Unknown
+5628	Avoidance	Direct
+5635	Avoidance	Direct
+5637	Avoidance	Change
+5654	Avoidance	Direct
+5666	Other
+5690	Rule
+5691	Rule
+5693	Other
+5740	Avoidance	Change
+5765	Avoidance	Other
+5778	Rule
+5807	Rule
+5808	Avoidance	Direct
+5812	Avoidance	Direct
+5813	Other
+5814	Prediction	Direct
+5822	Avoidance	Change
+5829	Avoidance	Other
+5834	Prediction	Change
+5836	Avoidance	Change
+5838	Avoidance	Direct
+5841	Avoidance	Change
+5861	Rule
+5865	Avoidance	Change
+5866	Avoidance	Change
+5870	Avoidance	Change
+5907	Rule
+5917	Prediction	Direct
+5921	Avoidance	Direct
+5950	Rule
+5974	Prediction	Change
+5986	Rule
+6018	Avoidance	Change
+6027	Avoidance	Direct
+6032	Rule
+6066	Avoidance	Direct
+6110	Rule
+6171	Unknown
+6180	Prediction	Direct
+6182	Avoidance	Direct
+6219	Avoidance	Change
+6225	Prediction	Direct
+6260	Rule
+6261	Avoidance	Change
+6288	Rule
+6325	Avoidance	Direct
+6357	Avoidance	Change
+6381	Avoidance	Change
+6388	Avoidance	Direct
+6390	Avoidance	Change
+6400	Avoidance	Change
+6419	Prediction	Direct
+6470	Avoidance	Direct
+6500	Avoidance	Direct
+6504	Other
+6528	Avoidance	Direct
+6540	Avoidance	Direct
+6546	Avoidance	Direct
+6549	Avoidance	Change
+6558	Avoidance	Other
+6560	Avoidance	Change
+6585	Rule
+6589	Avoidance	Change
+6592	Rule
+6596	Avoidance	Change
+6616	Avoidance	Change
+6676	Prediction	Change
+6696	Avoidance	Other
+6728	Avoidance	Change
+6741	Rule
+6808	Prediction	Direct
+6910	Rule
+6925	Avoidance	Change
+6937	Avoidance	Change
+6952	Avoidance	Direct
+6954	Avoidance	Change
+6963	Prediction	Change
+6964	Prediction	Change
+6965	Prediction	Change
+6966	Prediction	Change
+6976	Avoidance	Direct
+6988	Avoidance	Direct
+6998	Other
+7010	Rule
+7017	Prediction	Direct
+7022	Avoidance	Direct
+7031	Prediction	Direct
+7039	Avoidance	Direct
+7078	Avoidance	Change
+7088	Avoidance	Other
+7097	Avoidance	Change
+7112	Rule
+7118	Avoidance	Change
+7121	Avoidance	Direct
+7173	Rule
+7175	Rule
+7202	Avoidance	Change
+7215	Avoidance	Direct
+7224	Rule
+7262	Avoidance	Direct
+7264	Avoidance	Change
+7275	Avoidance	Direct
+7286	Rule
+7297	Avoidance	Change
+7364	Unknown
+7397	Rule
+7399	Rule
+7430	Rule
+7432	Rule
+7435	Avoidance	Change
+7437	Avoidance	Change
+7445	Prediction	Change
+7480	Rule
+7486	Avoidance	Change
+7488	Avoidance	Other
+7518	Avoidance	Direct
+7540	Avoidance	Direct
+7548	Avoidance	Change
+7550	Prediction	Direct
+7584	Avoidance	Change
+7586	Prediction	Direct
+7590	Prediction	Direct
+7601	Avoidance	Direct
+7618	Avoidance	Change
+7669	Prediction	Change
+7671	Avoidance	Direct
+7685	Prediction	Change
+7698	Avoidance	Direct
+7715	Avoidance	Change
+7717	Prediction	Direct
+7722	Avoidance	Direct
+7725	Other
+7743	Avoidance	Change
+7757	Avoidance	Change
+7779	Avoidance	Change
+7780	Avoidance	Direct
+7815	Avoidance	Direct
+7896	Avoidance	Direct
+7904	Rule
+7914	Avoidance	Direct
+7921	Avoidance	Change
+7974	Avoidance	Direct
+7979	Rule
+7981	Rule
+7984	Prediction	Change
+7986	Avoidance	Change
+7988	Avoidance	Direct
+7993	Avoidance	Change
+7998	Avoidance	Change
+8004	Rule
+8013	Avoidance	Direct
+8024	Rule
+8036	Unknown
+8068	Avoidance	Change
+8072	Avoidance	Direct
+8090	Avoidance	Direct
+8104	Avoidance	Change
+8115	Avoidance	Change
+8131	Avoidance	Change
+8133	Rule
+8141	Rule
+8142	Other
+8143	Avoidance	Change
+8146	Avoidance	Change
+8150	Avoidance	Direct
+8152	Avoidance	Direct
+8173	Unknown
+8182	Unknown
+8206	Avoidance	Direct
+8212	Rule
+8218	Avoidance	Direct
+8231	Rule
+8243	Rule
+8274	Avoidance	Direct
+8287	Rule
+8310	Avoidance	Direct
+8311	Other
+8320	Avoidance	Change
+8350	Prediction	Direct
+8358	Avoidance	Change
+8361	Avoidance	Direct
+8378	Avoidance	Direct
+8383	Avoidance	Change
+8413	Other
+8417	Avoidance	Change
+8432	Avoidance	Direct
+8469	Avoidance	Other
+8478	Avoidance	Direct
+8482	Avoidance	Change
+8491	Avoidance	Change
+8493	Avoidance	Direct
+8503	Avoidance	Direct
+8518	Avoidance	Change
+8532	Avoidance	Change
+8555	Avoidance	Change
+8564	Avoidance	Change
+8572	Avoidance	Change
+8593	Avoidance	Direct
+8598	Prediction	Change
+8619	Avoidance	Direct
+8628	Prediction	Direct
+8633	Prediction	Other
+8659	Rule
+8666	Avoidance	Change
+8674	Rule
+8676	Avoidance	Direct
+8718	Prediction	Other
+8719	Rule
+8738	Prediction	Direct
+8754	Avoidance	Direct
+8766	Avoidance	Change
+8784	Prediction	Change
+8874	Rule
+8880	Avoidance	Change
+8937	Rule
+8942	Avoidance	Direct
+8967	Prediction	Direct
+8993	Avoidance	Other
+8998	Prediction	Direct
+9025	Avoidance	Direct
+9112	Prediction	Direct
+9139	Prediction	Change
+9147	Avoidance	Change
+9153	Prediction	Direct
+9173	Prediction	Other
+9174	Other
+9229	Rule
+9260	Unknown
+9409	Avoidance	Direct
+9419	Rule
+9435	Rule
+9449	Avoidance	Direct
+9459	Rule
+9501	Rule
+9596	Avoidance	Direct
+9604	Prediction	Direct
+9614	Avoidance	Direct
+9648	Avoidance	Change
+9649	Rule
+9664	Avoidance	Direct
+9668	Avoidance	Direct
+9682	Avoidance	Direct
+9695	Avoidance	Direct
+9735	Avoidance	Other
+9776	Avoidance	Change
+9791	Unknown
+9818	Avoidance	Change
+9856	Rule
+9858	Avoidance	Change
+9864	Avoidance	Other
+9867	Avoidance	Direct
+9869	Prediction	Direct
+9873	Avoidance	Direct
+9878	Avoidance	Direct
+9882	Avoidance	Direct
+9890	Avoidance	Change
+9951	Avoidance	Direct
+9971	Prediction	Change
+10007	Rule
+10087	Prediction	Direct
+10099	Avoidance	Change
+10100	Prediction	Direct
+10109	Rule
+10120	Avoidance	Direct
+10126	Avoidance	Direct
+10128	Avoidance	Direct
+10142	Avoidance	Change
+10145	Rule
+10148	Avoidance	Direct
+10154	Rule
+10162	Avoidance	Direct
+10167	Rule
+10195	Avoidance	Direct
+10196	Avoidance	Change
+10202	Avoidance	Direct
+10206	Avoidance	Direct
+10212	Prediction	Change
+10213	Avoidance	Change
+10215	Avoidance	Change
+10260	Prediction	Change
+10268	Avoidance	Change
+10275	Rule
+10288	Rule
+10306	Rule
+10308	Avoidance	Direct
+10317	Prediction	Direct
+10318	Rule
+10324	Other
+10353	Avoidance	Direct
+10358	Avoidance	Direct
+10360	Prediction	Direct
+10361	Avoidance	Other
+10454	Avoidance	Change
+10529	Avoidance	Change
+10533	Avoidance	Direct
+10534	Avoidance	Direct
+10536	Avoidance	Other
+10540	Avoidance	Direct
+10550	Rule
+10567	Avoidance	Change
+10572	Avoidance	Change
+10574	Prediction	Other
+10577	Rule
+10578	Rule
+10585	Avoidance	Direct
+10589	Avoidance	Change
+10592	Prediction	Change
+10624	Avoidance	Change
+10626	Rule
+10630	Avoidance	Direct
+10638	Avoidance	Change
+10656	Avoidance	Other
+10685	Unknown
+10697	Prediction	Change
+10698	Rule
